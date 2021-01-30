@@ -1,2 +1,2 @@
 # JS Basic Scroll to Anchor
-Usage: `scrollFun('Here you must transer Query Selector(example, .example, #example)')`
+Usage: `scrollFun('Here you must transfer Query Selector(example, .example, #example)')`
